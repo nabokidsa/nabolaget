@@ -1,6 +1,6 @@
 
 
-const type = "blaa";
+const type = "blaa1";
 const oppgaver = [
     {id:1, beskrivelse:"Tre på rad", lyd:"bla2.m4a", bilde:"Tiktak2.jpg" },
     {id:2, beskrivelse:"Bygg et tårn med legoklosser", lyd:"bla3.m4a", bilde:"lego.png" },
