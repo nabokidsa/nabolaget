@@ -4,9 +4,9 @@ const type = "blaa1";
 const oppgaver = [
     {id:1, beskrivelse:"Tre på rad", lyd:"bla2.m4a", bilde:"Tiktak2.jpg" },
     {id:2, beskrivelse:"Bygg et tårn med legoklosser", lyd:"bla3.m4a", bilde:"lego.png" },
-    {id:3, beskrivelse:"Fullfør mønsteret", lyd:"guloppgave567.m4a", bilde"monster1.PNG" },
-    {id:4, beskrivelse:"Fullfør mønsteret", lyd:"guloppgave567.m4a", bilde"monster2.PNG" },
-    {id:5, beskrivelse:"Fullfør mønsteret", lyd:"guloppgave567.m4a", bilde"monster3.PNG" },
+    {id:3, beskrivelse:"Fullfør mønsteret", lyd:"guloppgave567.m4a", bilde:"monster1.PNG" },
+    {id:4, beskrivelse:"Fullfør mønsteret", lyd:"guloppgave567.m4a", bilde:"monster2.PNG" },
+    {id:5, beskrivelse:"Fullfør mønsteret", lyd:"guloppgave567.m4a", bilde:"monster3.PNG" },
     {id:6, beskrivelse:"Stein saks papir. Best av tre👊🏼✌🏽🤚", lyd:"bla1.m4a" },
 
     
