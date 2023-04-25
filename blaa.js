@@ -30,7 +30,7 @@ function showTask(oppgave){
     // Viser teksten
     oppgaveBeskrivelse.innerText = oppgave.beskrivelse;
      oppgaveBilde.src = `bilder/${type}/${oppgave.bilde}`;
-    oppgaveLyd.src = `lydfiler/blaa1/${oppgave.lyd}`;
+    oppgaveLyd.src = `lydfiler/blaa/${oppgave.lyd}`;
 
 }
 
